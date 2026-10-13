@@ -12,10 +12,6 @@
 ### 🚀 Чем я занимаюсь
 - 💻 Специализируюсь на **React**, **TypeScript** и экосистеме современной фронтенд-разработки.
 - 👁️ Разрабатывал веб-системы пользовательского опыта на базе **видеоокулографии (WebGazer.js, фильтры Калмана)** для генерации тепловых карт взгляда.
-- 📐 Проектирую архитектуру ПО (UML: StateChart, Class, Component, Deployment diagrams) в PlantUML и Mermaid.
-- ⚙️ Администрирую **Linux-серверы**, настраиваю сетевые маршруты, SSH, CI/CD, деплой на Vercel и GitHub.
-- 🎬 Веду YouTube-канал **VEDKO** (обзоры, аналитика аниме и поп-культуры, монтаж и обработка звука).
-
 ---
 
 ### 🛠️ Мой стек и инструменты
@@ -34,28 +30,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-**Design & Media Production:**
-<p align="left">
-  <img src="https://img.shields.io/badge/VEGAS_Pro-000000?style=for-the-badge&logo=vegas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe premiere pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlantUML-005596?style=for-the-badge&logo=plantuml&logoColor=white" />
-</p>
-
----
-
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Как со мной связаться
-- **YouTube:** [VEDKO](https://youtube.com/@your_channel)
-- **GitHub:** [@your_username](https://github.com/your_username)
