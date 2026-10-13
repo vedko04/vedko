@@ -1,7 +1,7 @@
 # 👋 Привет, я Иван Веденеев!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&vCenter=true&width=600&lines=Frontend+Developer+(React+%2B+TypeScript);UI%2FUX+%26+Video-Oculography+Enthusiast;Creator+of+VEDKO+YouTube+Channel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&vCenter=true&width=600&lines=Frontend+Developer+(React+%2B+TypeScript)" alt="Typing SVG" />
 </p>
 
 Разработчик интерфейсов и выпусник **НИТУ МИСИС** по направлению «Программная инженерия». 
